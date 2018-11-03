@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+import os
+
 # Scrapy settings for ArticleSpider project
 #
 # For simplicity, this file contains only settings considered important or
@@ -64,9 +66,22 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'ArticleSpider.pipelines.ArticlespiderPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   # 'ArticleSpider.pipelines.ArticlespiderPipeline': 300,
+    # 'scrapy.pipelines.images.ImagesPipeline':1,
+    # 'ArticleSpider.pipelines.ArticleImagePipeline':1,
+    # 'ArticleSpider.pipelines.JsonWithEncodingPipeline':2,
+    # 'ArticleSpider.pipelines.JsonExporterPipeline':3,
+    'ArticleSpider.pipelines.MysqlPipeline':1,
+
+
+}
+IMAGES_URLS_FIELD = "front_image_url"
+project_dir = os.path.abspath(os.path.dirname(__file__))
+IMAGES_STORE = os.path.join(project_dir,'images')
+
+# IMAGES_MIN_HEIGHT = 100
+# IMAGES_MIN_WIDTH =100
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -88,3 +103,8 @@ ROBOTSTXT_OBEY = False
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+MYSQL_HOST = "192.168.10.219"
+MYSQL_DBNAME = "jobbole_article"
+MYSQL_USER = "root"
+MYSQL_PASSWORD = "huang921118"
