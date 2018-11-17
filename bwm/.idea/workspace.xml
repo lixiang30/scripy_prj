@@ -7,10 +7,64 @@
       <change beforePath="$PROJECT_DIR$/../ArticleSpider/ArticleSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ArticleSpider/ArticleSpider/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArticleSpider/ArticleSpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ArticleSpider/ArticleSpider/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArticleSpider/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ArticleSpider/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bwm/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/bwm/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bwm/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/bwm/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bwm/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bwm/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bwm/spiders/bwm5.py" beforeDir="false" afterPath="$PROJECT_DIR$/bwm/spiders/bwm5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/7-La668110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/ChcCSVuqOceAQyiPAAVkdmn8XEU767.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/ChsEf1uqOcmAbTr0AAdv4TA00k0654.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/ChsEfVuqOdSAacwwAAekESzp0n4618.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/ChsEnluqOdaAQqFEAAer3DK6yMI241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/ChsEnluqOdiADBK6AAhhC8LlxR4846.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/ChsEoFuqOcuAZ3PhAAU3qDsGRSI206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/s141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/ChcCRVuqOYCAcRy8AAdnc9xkFts069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/ChcCRVuqOYaAcaTiAAcm2vshEHw647.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/ChsEkVuqOYWACcO6AAcFUlQp0KQ734.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/ChsEkVuqOYqAZOOVAAmPZs48nw4008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/ChsEm1uqOX2ATocLAAT6wZTh68c605.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/ChsEm1uqOYGAKnnEAAU7DJYGiqE316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/ChsEm1uqOYOAbxF7AAayhAYDUSo115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/ChsEm1uqOYmAZTAdAAdwRQVx55c937.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/201208221937277794122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/201208221937507274122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/201208221937544014122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/201208221937587764122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/201208221938030124122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/201208221938076224122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/201208221938116314122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/201208221938156714122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/ChcCr1qc0sGAInpKAArHdY3KG8w630.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/wKgHH1qc0sCABQpuAApaHrvOm0M034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/wKgHIFqc0r-AXvUgAAlZdJANy3c115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/wKgHIFqc0r6AQQ37AAmEqbSIvME789.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/wKgHIVqc0sSAUuz3AAmQZzasscY197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/wKgHIlqc0sOAbJBLAArcPFIQh4k091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/8AAS6LRDfB3g432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/ChcCR1uqOimAd8M2AAjEZbYqqzE279.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/ChsEfVuqOi-AFk4uAAYsKgsWg0M683.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/ChsEfVuqOi6ALJ9NAAavhbdCtzA780.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/ChsEmVuqOiGAe9wqAAYj5wsqRH0637.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/ChsEnluqOiOAKlOvAAbqpvVJnB0665.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/QAAYqcBV1GTo457.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/fAAadKIc6o1c999.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/ChcCSVuqOj2AVLxBAAgLtfMy7P4008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/ChcCSVuqOjyAAaCTAAjwwfPMLqk900.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/ChsEf1uqOj-AfyUnAAem6nUDHE4144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/ChsEf1vNrMqALyp5AAeVxCR53Hw624.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/ChsEfVuqOjKAU0L2AAbqcWi0zqc105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/ChsEnluqOjGABKqaAAeSzV7pUbA132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/ChsEoFuqOjqAdo23AAeiy37ecnc681.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/JgBI973.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/ChcCr1qyYg6AAHTLAAQ6oLEkkUs489.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/ChcCr1qyYgmAXdIJAANDerVoKh4027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/ChcCr1qyYguAAHw9AAPJrNsX7N8446.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/ChcCr1qzFP2ASYIEAAOKoXwEiB4825.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/HU760.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/wKgHIFqyYgyAFFUmAANt5CWNyKM181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/wKgHIlqyYg6AevCdAAISpcVvZ8Y242.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/wKgHIlqzFPuAdLAXAANXONSaE8E730.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../douban_login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../douban_login/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../douban_login/douban_login/spiders/douban.py" beforeDir="false" afterPath="$PROJECT_DIR$/../douban_login/douban_login/spiders/douban.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../qsbk/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qsbk/.idea/workspace.xml" afterDir="false" />
@@ -30,8 +84,10 @@
     <session id="888103529">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -46,31 +102,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="902" />
+          <entry key="py" value="1555" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="902" />
+          <entry key="Python" value="1555" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bwm/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+            <state relative-caret-position="1242">
+              <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bwm/spiders/bwm5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="324">
               <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
@@ -79,14 +135,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bwm/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="201">
+              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
               <folding>
                 <element signature="e#193#202#0" expanded="true" />
-                <marker date="1542379641269" expanded="true" signature="281:448" ph="..." />
+                <marker date="1542385012092" expanded="true" signature="281:448" ph="..." />
+                <marker date="1542385012092" expanded="true" signature="1018:1212" ph="..." />
+                <marker date="1542385012092" expanded="true" signature="1307:1312" ph="..." />
               </folding>
             </state>
           </provider>
@@ -95,10 +153,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bwm/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="288">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
-                <marker date="1542378150208" expanded="true" signature="196:201" ph="..." />
+                <marker date="1542381476835" expanded="true" signature="196:201" ph="..." />
               </folding>
             </state>
           </provider>
@@ -129,10 +187,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/bwm/spiders/bwm5.py" />
         <option value="$PROJECT_DIR$/bwm/items.py" />
         <option value="$PROJECT_DIR$/bwm/settings.py" />
         <option value="$PROJECT_DIR$/bwm/pipelines.py" />
-        <option value="$PROJECT_DIR$/bwm/spiders/bwm5.py" />
       </list>
     </option>
   </component>
@@ -179,7 +237,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../黑马_python基础" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -237,21 +295,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32973805" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -261,6 +320,33 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bwm/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bwm/spiders/bwm5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bwm/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <marker date="1542381476835" expanded="true" signature="196:201" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/start.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -268,40 +354,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bwm/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1542378150208" expanded="true" signature="196:201" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bwm/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bwm/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="201">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
           <folding>
             <element signature="e#193#202#0" expanded="true" />
-            <marker date="1542379641269" expanded="true" signature="281:448" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bwm/spiders/bwm5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1542385012092" expanded="true" signature="281:448" ph="..." />
+            <marker date="1542385012092" expanded="true" signature="1018:1212" ph="..." />
+            <marker date="1542385012092" expanded="true" signature="1307:1312" ph="..." />
           </folding>
         </state>
       </provider>

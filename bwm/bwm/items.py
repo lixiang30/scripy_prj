@@ -13,3 +13,5 @@ class BwmItem(scrapy.Item):
     # name = scrapy.Field()
     category = scrapy.Field()
     urls = scrapy.Field()
+    image_urls = scrapy.Field()
+    images = scrapy.Field()
