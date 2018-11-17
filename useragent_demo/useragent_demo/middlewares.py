@@ -101,3 +101,27 @@ class UseragentDemoDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+import random
+class UserAgentDownloadMiddleware(object):
+    USER_AGENTS = [
+        "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; HCI0449; .NET CLR 1.0.3705) ",
+        "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; i-NavFourF; .NET CLR 1.1.4322) ",
+        "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Maxthon; "
+    ]
+    def process_request(self,request,spider):
+        user_agent = random.choice(self.USER_AGENTS)
+        request.headers["User-Agent"] = user_agent
+
+
+class IPProxyDownloadMiddleware(object):
+    PROXIES = ["110.72.37.145","183.45.88.109"]
+
+    def process_request(self,request,spider):
+        proxy = random.choice(self.PROXIES)
+        request.meta["proxy"] = proxy
+
+# 报错　twisted.web.error.SchemeNotSupported: Unsupported scheme: b''
+"""
+原因暂未找到
+"""
